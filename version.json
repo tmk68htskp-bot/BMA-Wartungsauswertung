@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "titel": "Update verfügbar",
-  "hinweis": "Version 1.0.9 - Fehlerbehebung",
+  "hinweis": "Version 1.0.10 - Fehlerbehebung",
   "pflichtupdate": false,
   "download_url": "https://raw.githubusercontent.com/tmk68htskp-bot/BMA-Wartungsauswertung/main/BMA_Wartungsauswertung.py",
   "sha256": ""
