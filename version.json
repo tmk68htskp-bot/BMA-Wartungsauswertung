@@ -1,7 +1,7 @@
 {
-    "version": "0.1.9",
-    "titel": "Update verfügbar",
-    "hinweis": "Aktuelle Version mit lokaler Benutzerverwaltung und bcrypt-Passwörtern.",
-    "pflichtupdate": false,
-    "download_url": ""
+  "version": "0.2.0",
+  "titel": "Test-Update verfügbar",
+  "hinweis": "Dies ist ein Test der Online-Versionsprüfung.",
+  "pflichtupdate": false,
+  "download_url": ""
 }
