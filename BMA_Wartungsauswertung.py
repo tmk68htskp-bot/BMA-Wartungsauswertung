@@ -108,7 +108,7 @@ MG_COLUMN_INDEX = 1
 COUNT_COLUMN_INDEX = 4
 FIRST_DETECTOR_COLUMN_INDEX = 6
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 USERS_FILENAME = "users.json"
 VERSION_URL = "https://raw.githubusercontent.com/tmk68htskp-bot/BMA-Wartungsauswertung/main/version.json"
 
